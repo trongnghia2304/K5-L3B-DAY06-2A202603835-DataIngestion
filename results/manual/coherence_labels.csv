@@ -1,0 +1,345 @@
+﻿position_id,page_id,char_offset,strategy,chunk_id,chunk_chars,chunk_text,label_0_1_2,reason
+pos01,wb-ar-2024-p003,613,A,wb-ar-2024:p003:fixed500o50:001,499,"crises, pandemics and fragility;
+• Sustainable, through growth and job creation,
+human development, fiscal and debt management,
+food security and access to clean air, water, and
+affordable energy.
+To achieve this, we will work with all clients as one
+World Bank Group, in close partnership with other
+multilateral institutions, the private sector, and
+civil society.
+OUR CORE VALUES
+Our work is guided by our core values: impact,
+integrity, respect, teamwork, and innovation.
+These inform everything",1,"Bullet “Sustainable…” chứa vị trí đo còn nguyên câu, nhưng chunk bị mất câu dẫn “We are building a better Bank to drive impactful development that is:”, nên không biết cái gì “sustainable”. Chunk cũng bắt đầu bằng mảnh cụt của bullet trước (“crises, pandemics and fragility;”) và kết thúc giữa câu (“These inform everything”). Hiểu được một phần, thiếu chủ thể."
+pos01,wb-ar-2024-p003,613,B,wb-ar-2024:p003:para500:001,493,"• Sustainable, through growth and job creation,
+human development, fiscal and debt management,
+food security and access to clean air, water, and
+affordable energy.
+To achieve this, we will work with all clients as one
+World Bank Group, in close partnership with other
+multilateral institutions, the private sector, and
+civil society.
+OUR CORE VALUES
+Our work is guided by our core values: impact,
+integrity, respect, teamwork, and innovation.
+These inform everything we do, everywhere we work.",1," Ranh giới sạch hơn A (bắt đầu đúng đầu bullet, kết thúc trọn câu) nhưng vẫn mất câu dẫn 'We are building a better Bank to drive impactful development that is:' nên không rõ cái gì 'Sustainable'."
+pos01,wb-ar-2024-p003,613,C,wb-ar-2024:p003:para500:001,493,"• Sustainable, through growth and job creation,
+human development, fiscal and debt management,
+food security and access to clean air, water, and
+affordable energy.
+To achieve this, we will work with all clients as one
+World Bank Group, in close partnership with other
+multilateral institutions, the private sector, and
+civil society.
+OUR CORE VALUES
+Our work is guided by our core values: impact,
+integrity, respect, teamwork, and innovation.
+These inform everything we do, everywhere we work.",1," Ranh giới sạch hơn A (bắt đầu đúng đầu bullet, kết thúc trọn câu) nhưng vẫn mất câu dẫn 'We are building a better Bank to drive impactful development that is:' nên không rõ cái gì 'Sustainable'. (C dùng đúng chunk của B nên cùng nhãn.)"
+pos02,wb-ar-2024-p004,780,A,wb-ar-2024:p004:fixed500o50:001,499,"r
+77 million people
+Provided 17 gigawatts
+of renewable energy capacity
+Committed to devote 45 percent of
+annual financing to climate action by 2025,
+deployed equally between mitigation and adaptation
+In fiscal 2024, the Bank Group announced the
+development of a new Scorecard that will track results
+across 22 indicators—a fraction of the previous 150—
+to provide a streamlined, clear picture of progress
+on all aspects of the Bank Group’s mission, from
+improving access to healthcare to making food",1, Câu Scorecard chứa vị trí đo bị cắt ở cuối ('…to making food'); đầu chunk là mảnh cụt 'r 77 million people'. Hiểu ý chính nhưng thiếu phần cuối câu.
+pos02,wb-ar-2024-p004,780,B,wb-ar-2024:p004:para500:002,335,"the Bank Group announced the
+development of a new Scorecard that will track results
+across 22 indicators—a fraction of the previous 150—
+to provide a streamlined, clear picture of progress
+on all aspects of the Bank Group’s mission, from
+improving access to healthcare to making food systems
+sustainable to boosting private investment.",2," Trọn câu về Scorecard 22 chỉ số (so với 150 trước đây) và mục đích; chỉ thiếu cụm mở đầu 'In fiscal 2024,' nhưng vẫn tự hiểu được."
+pos02,wb-ar-2024-p004,780,C,wb-ar-2024:p004:para500:002,335,"the Bank Group announced the
+development of a new Scorecard that will track results
+across 22 indicators—a fraction of the previous 150—
+to provide a streamlined, clear picture of progress
+on all aspects of the Bank Group’s mission, from
+improving access to healthcare to making food systems
+sustainable to boosting private investment.",2," Trọn câu về Scorecard 22 chỉ số (so với 150 trước đây) và mục đích; chỉ thiếu cụm mở đầu 'In fiscal 2024,' nhưng vẫn tự hiểu được. (C dùng đúng chunk của B nên cùng nhãn.)"
+pos03,wb-ar-2024-p005,2766,A,wb-ar-2024:p005:fixed500o50:006,499,"e Presidency unit will lead our efforts
+to establish the foundations of a digital economy. Key
+initiatives include building and enhancing digital and
+data infrastructure, ensuring cybersecurity and data
+privacy for institutions, businesses, and citizens, and
+advancing digital government services.
+Delivering on our commitments requires us to develop
+new and better ways of working. In fiscal 2024, we
+did just that. We are squeezing our balance sheet
+and finding new opportunities to take more risk",1, Câu chứa vị trí đo mất chủ thể ('e Presidency unit' – bị cắt từ 'Digital Vice Presidency'); nửa sau chuyển sang chủ đề khác (balance sheet) và cắt giữa câu.
+pos03,wb-ar-2024-p005,2766,B,wb-ar-2024:p005:para500:007,403,"Our digital lending portfolio
+totaled $5.6 billion in commitments as of June 2024; and
+our new Digital Vice Presidency unit will lead our efforts
+to establish the foundations of a digital economy. Key
+initiatives include building and enhancing digital and
+data infrastructure, ensuring cybersecurity and data
+privacy for institutions, businesses, and citizens, and
+advancing digital government services.",2," Đoạn trọn vẹn: danh mục cho vay số $5.6 tỷ, Digital Vice Presidency và các sáng kiến chính; tự hiểu được."
+pos03,wb-ar-2024-p005,2766,C,wb-ar-2024:p005:para500:007,403,"Our digital lending portfolio
+totaled $5.6 billion in commitments as of June 2024; and
+our new Digital Vice Presidency unit will lead our efforts
+to establish the foundations of a digital economy. Key
+initiatives include building and enhancing digital and
+data infrastructure, ensuring cybersecurity and data
+privacy for institutions, businesses, and citizens, and
+advancing digital government services.",2," Đoạn trọn vẹn: danh mục cho vay số $5.6 tỷ, Digital Vice Presidency và các sáng kiến chính; tự hiểu được. (C dùng đúng chunk của B nên cùng nhãn.)"
+pos04,wb-ar-2024-p006,3301,A,wb-ar-2024:p006:fixed500o50:007,500,"lion (including $37.6 billion
+from IBRD, $31.2 billion from IDA, $31.7 billion from IFC,
+$8.2 billion from MIGA, and $8.9 billion in recipient-executed disbursing activities) in fiscal 2024.
+The 2023 Annual Meetings marked an important
+milestone for the World Bank Group as Development
+Committee members endorsed the institution’s new
+vision of a world free of poverty on a livable planet.
+Since then, the Bank Group has implemented core
+reforms to build a better Bank, including enhancing
+its financ",0, Câu chứa vị trí đo bị cắt mất chủ ngữ và con số tổng ('lion (including $37.6 billion…') nên không biết các khoản này là gì; phần sau chuyển sang Annual Meetings.
+pos04,wb-ar-2024-p006,3301,B,wb-ar-2024:p006:para500:008,479,"The world is increasingly unlikely to achieve
+the 2030 Sustainable Development Goals, and climate
+change, biodiversity loss, and escalating geopolitical
+tensions further threaten development. To help countries
+address these intertwined challenges, the World Bank
+Group committed $117.5 billion (including $37.6 billion
+from IBRD, $31.2 billion from IDA, $31.7 billion from IFC,
+$8.2 billion from MIGA, and $8.9 billion in recipient-executed disbursing activities) in fiscal 2024.",2, Trọn câu cam kết $117.5 tỷ và phân rã theo IBRD/IDA/IFC/MIGA/REDA kèm câu bối cảnh; tự hiểu được.
+pos04,wb-ar-2024-p006,3301,C,wb-ar-2024:p006:para500:008,479,"The world is increasingly unlikely to achieve
+the 2030 Sustainable Development Goals, and climate
+change, biodiversity loss, and escalating geopolitical
+tensions further threaten development. To help countries
+address these intertwined challenges, the World Bank
+Group committed $117.5 billion (including $37.6 billion
+from IBRD, $31.2 billion from IDA, $31.7 billion from IFC,
+$8.2 billion from MIGA, and $8.9 billion in recipient-executed disbursing activities) in fiscal 2024.",2, Trọn câu cam kết $117.5 tỷ và phân rã theo IBRD/IDA/IFC/MIGA/REDA kèm câu bối cảnh; tự hiểu được. (C dùng đúng chunk của B nên cùng nhãn.)
+pos05,wb-ar-2024-p007,1811,A,wb-ar-2024:p007:fixed500o50:003,500,"at address existing
+barriers to private sector investment
+in emerging markets and developing
+economies. The Lab’s core group of
+15 CEOs and Chairs have delivered
+recommendations on regulatory
+certainty, increased use of guarantees,
+foreign-exchange-risk mitigation, and
+increased use of originate-to-distribute
+models for mobilization of private
+capital. Their feedback has already
+informed the development of the World
+Bank Group Guarantee Platform.
+WORLD BANK GROUP
+GUARANTEE PLATFORM
+This new plat",0, Vị trí đo rơi đúng chỗ cắt cuối chunk: tiêu đề 'WORLD BANK GROUP GUARANTEE PLATFORM This new plat' bị tách khỏi nội dung.
+pos05,wb-ar-2024-p007,1811,A,wb-ar-2024:p007:fixed500o50:004,499,"WORLD BANK GROUP
+GUARANTEE PLATFORM
+This new platform is delivering
+simplicity and improved access to our
+guarantee products, putting us on a
+path to boost our annual guarantee
+issuance to $20 billion by 2030—and
+multiply our mobilization of private
+capital many times.
+KNOWLEDGE BANK
+Knowledge has been critical to the
+World Bank Group for 80 years, and
+we are refocusing ourselves not just
+as a funding mechanism, but also as
+a source of knowledge. To do this, we
+are bringing experts to the foref",2," Nhờ overlap, chunk này chứa trọn tiêu đề Guarantee Platform và đoạn mô tả (mục tiêu $20 tỷ bảo lãnh/năm vào 2030); tự hiểu được."
+pos05,wb-ar-2024-p007,1811,B,wb-ar-2024:p007:para500:005,363,"The Lab’s core group of
+15 CEOs and Chairs have delivered
+recommendations on regulatory
+certainty, increased use of guarantees,
+foreign-exchange-risk mitigation, and
+increased use of originate-to-distribute
+models for mobilization of private
+capital. Their feedback has already
+informed the development of the World
+Bank Group Guarantee Platform.
+WORLD BANK GROUP",0," Tiêu đề 'WORLD BANK GROUP' bị dính vào cuối đoạn trước, tách khỏi phần 'GUARANTEE PLATFORM' và nội dung; tại vị trí đo không còn ý nào."
+pos05,wb-ar-2024-p007,1811,C,wb-ar-2024:p007:para500:005,363,"The Lab’s core group of
+15 CEOs and Chairs have delivered
+recommendations on regulatory
+certainty, increased use of guarantees,
+foreign-exchange-risk mitigation, and
+increased use of originate-to-distribute
+models for mobilization of private
+capital. Their feedback has already
+informed the development of the World
+Bank Group Guarantee Platform.
+WORLD BANK GROUP",0," Tiêu đề 'WORLD BANK GROUP' bị dính vào cuối đoạn trước, tách khỏi phần 'GUARANTEE PLATFORM' và nội dung; tại vị trí đo không còn ý nào. (C dùng đúng chunk của B nên cùng nhãn.)"
+pos06,wb-ar-2024-p008,1814,A,wb-ar-2024:p008:fixed500o50:003,500,"nd disbursements exclude IDA-IFC-MIGA Private Sector Window activities.
+e. Includes long-term commitments for IFC’s own account and short-term finance commitments. Does not include funds mobilized from other investors.
+FISCAL 2024
+FINANCIAL SUMMARY
+GLOBAL COMMITMENTS
+In fiscal 2024, the World Bank Group provided much-needed financing,
+conducted research and analysis, and partnered with governments,
+the private sector, and other institutions to address global
+development challenges.
+Total include",1," Câu 'In fiscal 2024, the World Bank Group provided…' trọn vẹn nhưng câu kế tiếp chứa vị trí đo bị cắt ('Total include'); đầu chunk là chú thích bảng không liên quan."
+pos06,wb-ar-2024-p008,1814,A,wb-ar-2024:p008:fixed500o50:004,500,"dress global
+development challenges.
+Total includes multiregional and global operations. Regional totals reflect IFC commitments that were recalculated to
+match the World Bank’s regional classifications by aggregating country-level commitments within each World Bank region.
+$117.5B
+(BILLION)
+in loans, grants, equity investments, and guarantees
+to partner countries and private businesses.
+AFRICA
+$38.0B
+(BILLION)
+EAST ASIA AND
+PACIFIC
+$12.5B
+(BILLION)
+EUROPE AND
+CENTRAL ASIA
+$24.7B
+(BILLION)
+LATIN",1, Bắt đầu bằng mảnh cụt 'dress global development challenges'; câu 'Total includes multiregional…' còn nguyên nhưng 'Total' chỉ rõ nghĩa nhờ con số $117.5B phía sau; cuối cắt giữa danh sách khu vực.
+pos06,wb-ar-2024-p008,1814,B,wb-ar-2024:p008:para500:004,483,"GLOBAL COMMITMENTS
+In fiscal 2024, the World Bank Group provided much-needed financing,
+conducted research and analysis, and partnered with governments,
+the private sector, and other institutions to address global
+development challenges.
+Total includes multiregional and global operations. Regional totals reflect IFC commitments that were recalculated to
+match the World Bank’s regional classifications by aggregating country-level commitments within each World Bank region.
+$117.5B",2, Trọn đoạn GLOBAL COMMITMENTS và chú thích cách tính tổng/khu vực; chỉ có con số '$117.5B' treo ở cuối (bị tách khỏi '(BILLION) in loans…').
+pos06,wb-ar-2024-p008,1814,C,wb-ar-2024:p008:para500:004,483,"GLOBAL COMMITMENTS
+In fiscal 2024, the World Bank Group provided much-needed financing,
+conducted research and analysis, and partnered with governments,
+the private sector, and other institutions to address global
+development challenges.
+Total includes multiregional and global operations. Regional totals reflect IFC commitments that were recalculated to
+match the World Bank’s regional classifications by aggregating country-level commitments within each World Bank region.
+$117.5B",2, Trọn đoạn GLOBAL COMMITMENTS và chú thích cách tính tổng/khu vực; chỉ có con số '$117.5B' treo ở cuối (bị tách khỏi '(BILLION) in loans…'). (C dùng đúng chunk của B nên cùng nhãn.)
+pos07,wb-ar-2024-p010,1690,A,wb-ar-2024:p010:fixed500o50:003,499,"ged data and analytics to help countries in
+the region reach their development potential.
+In the Democratic Republic of Congo, we are increasing
+access to education, particularly for girls, and improving
+teaching-learning conditions at secondary schools in
+selected provinces. This includes creating safe and
+inclusive school environments, strengthening curriculum
+and educational materials, as well as equipping girls and
+boys with digital skills. In Tanzania, our results-based
+financing education",2, Đoạn về Cộng hòa Dân chủ Congo chứa vị trí đo còn nguyên cả chủ thể và ý; mảnh cụt ở đầu ('ged data…') và cuối ('In Tanzania…') không ảnh hưởng ý này.
+pos07,wb-ar-2024-p010,1690,B,wb-ar-2024:p010:para500:004,490,"In the Democratic Republic of Congo, we are increasing
+access to education, particularly for girls, and improving
+teaching-learning conditions at secondary schools in
+selected provinces. This includes creating safe and
+inclusive school environments, strengthening curriculum
+and educational materials, as well as equipping girls and
+boys with digital skills. In Tanzania, our results-based
+financing education program led to 1.6 million students
+enrolling in preprimary and primary schools.",2, Trọn đoạn Congo và câu Tanzania; tự hiểu được và giữ trọn ý.
+pos07,wb-ar-2024-p010,1690,C,wb-ar-2024:p010:para500:004,490,"In the Democratic Republic of Congo, we are increasing
+access to education, particularly for girls, and improving
+teaching-learning conditions at secondary schools in
+selected provinces. This includes creating safe and
+inclusive school environments, strengthening curriculum
+and educational materials, as well as equipping girls and
+boys with digital skills. In Tanzania, our results-based
+financing education program led to 1.6 million students
+enrolling in preprimary and primary schools.",2, Trọn đoạn Congo và câu Tanzania; tự hiểu được và giữ trọn ý. (C dùng đúng chunk của B nên cùng nhãn.)
+pos08,wb-ar-2024-p011,2504,A,wb-ar-2024:p011:fixed500o50:005,500,"nitation Project. The project
+has also provided water supply upgrades for more than
+370,000 people as of March 2024.
+Enabling the energy transition
+Our Accelerating Sustainable and Clean Energy Access
+Transformation Program aims to increase access to
+sustainable and clean energy across the region by
+2030. The program will benefit 100 million people
+by expanding access to grid and off-grid electricity
+in a region where only 48 percent of the overall
+population—and just 26 percent in rural areas—h",2, Câu về chương trình ASCENT và mục tiêu 2030 còn nguyên kèm tiêu đề 'Enabling the energy transition'; chỉ câu sau bị cắt ở cuối. 'the region' không nêu tên (có trong metadata region).
+pos08,wb-ar-2024-p011,2504,B,wb-ar-2024:p011:para500:007,408,"Enabling the energy transition
+Our Accelerating Sustainable and Clean Energy Access
+Transformation Program aims to increase access to
+sustainable and clean energy across the region by
+2030. The program will benefit 100 million people
+by expanding access to grid and off-grid electricity
+in a region where only 48 percent of the overall
+population—and just 26 percent in rural areas—has
+access to electricity.",2," Trọn tiêu đề và đoạn: 100 triệu người hưởng lợi, 48%/26% có điện; tự hiểu được ('the region' dựa vào metadata)."
+pos08,wb-ar-2024-p011,2504,C,wb-ar-2024:p011:para500:007,408,"Enabling the energy transition
+Our Accelerating Sustainable and Clean Energy Access
+Transformation Program aims to increase access to
+sustainable and clean energy across the region by
+2030. The program will benefit 100 million people
+by expanding access to grid and off-grid electricity
+in a region where only 48 percent of the overall
+population—and just 26 percent in rural areas—has
+access to electricity.",2," Trọn tiêu đề và đoạn: 100 triệu người hưởng lợi, 48%/26% có điện; tự hiểu được ('the region' dựa vào metadata). (C dùng đúng chunk của B nên cùng nhãn.)"
+pos09,wb-ar-2024-p012,1606,A,wb-ar-2024:p012:fixed500o50:003,500,"n Development Project has benefited 14 million
+mothers and children through a range of early childhood
+interventions and essential nutrition services. It also
+increased birth registrations from 43 percent in 2018 to
+73 percent in 2023.
+Boosting food security and climate resilience
+We provided emergency food assistance for 3.4 million
+people and agricultural support to 11.1 million farmers
+in the region. Through the West Africa Food System
+Resilience Program, more than 1.6 million farmers
+Powerin",2," Tiêu đề 'Boosting food security and climate resilience' và câu hỗ trợ lương thực cho 3,4 triệu người còn nguyên; cuối chunk bị chen chữ từ hộp khác ('Powerin')."
+pos09,wb-ar-2024-p012,1606,B,wb-ar-2024:p012:para500:005,443,"Boosting food security and climate resilience
+We provided emergency food assistance for 3.4 million
+people and agricultural support to 11.1 million farmers
+in the region. Through the West Africa Food System
+Resilience Program, more than 1.6 million farmers
+Powering a brighter future for Africa
+With the support of the World Bank, a new
+25-megawatt solar park with battery storage
+was launched in the Central African Republic in
+November 2023.",2," Tiêu đề và câu chứa vị trí đo trọn vẹn; có lỗi bố cục chen hộp 'Powering a brighter future…' giữa câu về 1,6 triệu nông dân nhưng không ảnh hưởng ý tại vị trí đo."
+pos09,wb-ar-2024-p012,1606,C,wb-ar-2024:p012:para500:005,443,"Boosting food security and climate resilience
+We provided emergency food assistance for 3.4 million
+people and agricultural support to 11.1 million farmers
+in the region. Through the West Africa Food System
+Resilience Program, more than 1.6 million farmers
+Powering a brighter future for Africa
+With the support of the World Bank, a new
+25-megawatt solar park with battery storage
+was launched in the Central African Republic in
+November 2023.",2," Tiêu đề và câu chứa vị trí đo trọn vẹn; có lỗi bố cục chen hộp 'Powering a brighter future…' giữa câu về 1,6 triệu nông dân nhưng không ảnh hưởng ý tại vị trí đo. (C dùng đúng chunk của B nên cùng nhãn.)"
+pos10,wb-ar-2024-p013,2107,A,wb-ar-2024:p013:fixed500o50:004,499,", and Waste Management 5%
+10% Education
+22% Energy and Extractives
+3% Financial Sector
+Transportation 4%
+Social Protection 8%
+Public Administration 20%
+Information and Communications Technologies 4%
+Industry, Trade, and Services 7% 6% Health
+in Burkina Faso, Mali, Sierra Leone, and Togo have
+received agricultural goods and services. More than
+63,800 metric tons of fertilizers have been distributed
+to over 530,000 farmers in these countries. Emergency
+support was extended to Ghana in fiscal 2024",1, Câu chứa vị trí đo mất chủ thể vì bắt đầu từ trang trước ('more than 1.6 million farmers' ở trang 12) và bị chen nhãn biểu đồ phía trước; câu phân bón 63.800 tấn thì hiểu được.
+pos10,wb-ar-2024-p013,2107,B,wb-ar-2024:p013:para500:005,499,"10% Agriculture, Fishing, and ForestryWater, Sanitation, and Waste Management 5%
+10% Education
+22% Energy and Extractives
+3% Financial Sector
+Transportation 4%
+Social Protection 8%
+Public Administration 20%
+Information and Communications Technologies 4%
+Industry, Trade, and Services 7% 6% Health
+in Burkina Faso, Mali, Sierra Leone, and Togo have
+received agricultural goods and services. More than
+63,800 metric tons of fertilizers have been distributed
+to over 530,000 farmers in these countries.",1, Cùng vấn đề với A: chủ thể của câu nằm ở trang 12 (chunk không vượt trang) và chunk bắt đầu bằng nhãn biểu đồ ngành; hiểu một phần.
+pos10,wb-ar-2024-p013,2107,C,wb-ar-2024:p013:para500:005,499,"10% Agriculture, Fishing, and ForestryWater, Sanitation, and Waste Management 5%
+10% Education
+22% Energy and Extractives
+3% Financial Sector
+Transportation 4%
+Social Protection 8%
+Public Administration 20%
+Information and Communications Technologies 4%
+Industry, Trade, and Services 7% 6% Health
+in Burkina Faso, Mali, Sierra Leone, and Togo have
+received agricultural goods and services. More than
+63,800 metric tons of fertilizers have been distributed
+to over 530,000 farmers in these countries.",1, Cùng vấn đề với A: chủ thể của câu nằm ở trang 12 (chunk không vượt trang) và chunk bắt đầu bằng nhãn biểu đồ ngành; hiểu một phần. (C dùng đúng chunk của B nên cùng nhãn.)

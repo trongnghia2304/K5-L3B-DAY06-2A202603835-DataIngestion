@@ -1,0 +1,119 @@
+{
+  "A": {
+    "dev": {
+      "hit_at_1": {
+        "n": 6,
+        "N": 15,
+        "rate": 0.4
+      },
+      "evidence_hit_at_3": {
+        "n": 7,
+        "N": 15,
+        "rate": 0.467
+      },
+      "gold_page_in_top3": {
+        "n": 8,
+        "N": 15,
+        "rate": 0.533
+      },
+      "filter_questions_hit_at_3": {
+        "n": 0,
+        "N": 3,
+        "rate": 0.0
+      },
+      "filter_compliant_top3": {
+        "n": 0,
+        "N": 3,
+        "rate": 0.0
+      },
+      "evidence_split_across_chunks": [
+        "q06"
+      ],
+      "missed_ids": [
+        "q01",
+        "q02",
+        "q03",
+        "q04",
+        "q06",
+        "q13",
+        "q14",
+        "q15"
+      ]
+    }
+  },
+  "B": {
+    "dev": {
+      "hit_at_1": {
+        "n": 9,
+        "N": 15,
+        "rate": 0.6
+      },
+      "evidence_hit_at_3": {
+        "n": 10,
+        "N": 15,
+        "rate": 0.667
+      },
+      "gold_page_in_top3": {
+        "n": 11,
+        "N": 15,
+        "rate": 0.733
+      },
+      "filter_questions_hit_at_3": {
+        "n": 0,
+        "N": 3,
+        "rate": 0.0
+      },
+      "filter_compliant_top3": {
+        "n": 0,
+        "N": 3,
+        "rate": 0.0
+      },
+      "evidence_split_across_chunks": [
+        "q01"
+      ],
+      "missed_ids": [
+        "q01",
+        "q02",
+        "q13",
+        "q14",
+        "q15"
+      ]
+    }
+  },
+  "C": {
+    "dev": {
+      "hit_at_1": {
+        "n": 11,
+        "N": 15,
+        "rate": 0.733
+      },
+      "evidence_hit_at_3": {
+        "n": 13,
+        "N": 15,
+        "rate": 0.867
+      },
+      "gold_page_in_top3": {
+        "n": 14,
+        "N": 15,
+        "rate": 0.933
+      },
+      "filter_questions_hit_at_3": {
+        "n": 3,
+        "N": 3,
+        "rate": 1.0
+      },
+      "filter_compliant_top3": {
+        "n": 3,
+        "N": 3,
+        "rate": 1.0
+      },
+      "evidence_split_across_chunks": [
+        "q01"
+      ],
+      "missed_ids": [
+        "q01",
+        "q02"
+      ]
+    }
+  }
+}

@@ -1,5 +1,31 @@
 # Day 06 · Data Ingestion Engineering
 
+> ## Bài làm — Nguyễn Trọng Nghĩa (2A202603835, L3B)
+>
+> - **Corpus:** World Bank Annual Report 2024 (`data/worldbank-report-2024.pdf`, CC BY-NC-ND 3.0 IGO), 42 trang nội dung. Chi tiết trong [data/manifest.json](data/manifest.json).
+> - **Stack:** model local `paraphrase-multilingual-MiniLM-L12-v2` (384 chiều), PostgreSQL + pgvector, metric cosine, exact search.
+> - **Báo cáo:** [report/individual/2A202603835_NguyenTrongNghia.md](report/individual/2A202603835_NguyenTrongNghia.md).
+> - **Benchmark:** [benchmark/](benchmark/README.md).
+> - **Kết quả:** [results/](results/metrics_dev_test.md).
+> - **Nhật ký thí nghiệm:** [artifacts/experiment_log.csv](artifacts/experiment_log.csv).
+>
+> **Cách chạy** (Python 3.11, Docker). Các lệnh sau chạy trong `starter/`:
+>
+> ```bash
+> python -m venv .venv
+> .venv\Scripts\Activate.ps1          # macOS/Linux: source .venv/bin/activate
+> python -m pip install -r requirements.txt
+> Copy-Item .env.example .env         # macOS/Linux: cp .env.example .env
+> docker compose -p day6_student_starter up -d --wait
+> python scripts/check_setup.py
+> python scripts/build_manifest.py    # đếm trang, ghi data/manifest.json
+> python scripts/verify_benchmark.py  # kiểm chứng evidence và filter
+> python -m src.run --splits dev,test --fresh
+> python scripts/summarize_labels.py  # sau khi điền nhãn trong results/manual/
+> ```
+>
+> Lần đầu chạy cần mạng để tải model và torch. `results/chunks/` không được commit vì giấy phép NoDerivatives; lệnh `src.run` sẽ tạo lại thư mục này.
+
 **Lab cá nhân** · **4 giờ** · **Dữ liệu tự chọn**
 
 Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, rồi đo xem cách chuẩn bị dữ liệu nào hiệu quả nhất.

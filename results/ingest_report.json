@@ -1,0 +1,167 @@
+{
+  "run_started_utc": "2026-11-14T04:27:13+00:00",
+  "fresh_ingest": true,
+  "splits": [
+    "dev",
+    "test"
+  ],
+  "environment": {
+    "python": "3.11.4",
+    "os": "Windows-10-10.0.26200-SP0",
+    "postgresql": "16.16 (Debian 16.16-1.pgdg12+1)",
+    "pgvector": "0.8.7",
+    "sentence-transformers": "6.3.0",
+    "torch": "2.15.0",
+    "psycopg": "3.3.8",
+    "pypdf": "6.21.4"
+  },
+  "embedding": {
+    "provider": "local sentence-transformers",
+    "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "dimensions": 384,
+    "max_seq_length": 128,
+    "normalized": true,
+    "query_document_handling": "same encoder, no prefixes",
+    "model_load_seconds": 32.59,
+    "cost_usd": 0
+  },
+  "vector_store": {
+    "backend": "PostgreSQL + pgvector",
+    "table": "chunks_384d",
+    "metric": "cosine (<=>)",
+    "search": "exact (sequential scan, no ANN index)"
+  },
+  "corpus": {
+    "errors": [],
+    "normalization": {
+      "running_headers_removed": 49,
+      "kerning_fixes": 92,
+      "wrapped_hyphens_joined": 35
+    },
+    "sources": [
+      {
+        "source_id": "wb-ar-2024",
+        "expected_pages": 42,
+        "loaded_pages": 42
+      }
+    ],
+    "pages_loaded": 42,
+    "load_normalize_seconds": 2.98
+  },
+  "strategies": {
+    "A": {
+      "config": {
+        "chunking": "fixed_size",
+        "size": 500,
+        "overlap": 50,
+        "use_filter": false
+      },
+      "stats": {
+        "chunk_count": 456,
+        "chars_total": 219177,
+        "chars_min": 57,
+        "chars_p10": 498,
+        "chars_median": 500.0,
+        "chars_mean": 480.7,
+        "chars_p90": 500,
+        "chars_max": 500,
+        "tokens_total": 51238,
+        "chunks_over_max_seq_length": 67,
+        "chunks_under_100_chars": 6
+      },
+      "ingest": {
+        "embedded": 456,
+        "rows_written": 456,
+        "rows_deleted_obsolete": 0,
+        "rows_in_store": 456,
+        "embed_seconds": 58.25,
+        "total_seconds": 58.88
+      },
+      "reingest_check": {
+        "rows_before": 456,
+        "rows_after": 456,
+        "re_embedded_on_second_pass": 0,
+        "forced_upsert_of_existing_rows": 20,
+        "duplicates_created": 0
+      }
+    },
+    "B": {
+      "config": {
+        "chunking": "by_paragraph",
+        "max_size": 500,
+        "use_filter": false
+      },
+      "stats": {
+        "chunk_count": 557,
+        "chars_total": 198075,
+        "chars_min": 17,
+        "chars_p10": 188,
+        "chars_median": 379,
+        "chars_mean": 355.6,
+        "chars_p90": 488,
+        "chars_max": 500,
+        "tokens_total": 46326,
+        "chunks_over_max_seq_length": 43,
+        "chunks_under_100_chars": 10
+      },
+      "ingest": {
+        "embedded": 557,
+        "rows_written": 557,
+        "rows_deleted_obsolete": 0,
+        "rows_in_store": 557,
+        "embed_seconds": 52.28,
+        "total_seconds": 52.9
+      },
+      "reingest_check": {
+        "rows_before": 557,
+        "rows_after": 557,
+        "re_embedded_on_second_pass": 0,
+        "forced_upsert_of_existing_rows": 20,
+        "duplicates_created": 0
+      }
+    },
+    "C": {
+      "config": {
+        "chunking": "by_paragraph",
+        "max_size": 500,
+        "use_filter": true
+      },
+      "stats": {
+        "chunk_count": 557,
+        "chars_total": 198075,
+        "chars_min": 17,
+        "chars_p10": 188,
+        "chars_median": 379,
+        "chars_mean": 355.6,
+        "chars_p90": 488,
+        "chars_max": 500,
+        "tokens_total": 46326,
+        "chunks_over_max_seq_length": 43,
+        "chunks_under_100_chars": 10
+      },
+      "ingest": {
+        "embedded": 0,
+        "rows_written": 557,
+        "rows_deleted_obsolete": 0,
+        "rows_in_store": 557,
+        "embed_seconds": 0.03,
+        "total_seconds": 0.57
+      },
+      "reingest_check": {
+        "rows_before": 557,
+        "rows_after": 557,
+        "re_embedded_on_second_pass": 0,
+        "forced_upsert_of_existing_rows": 20,
+        "duplicates_created": 0
+      }
+    }
+  },
+  "retrieval": {
+    "splits": [
+      "dev",
+      "test"
+    ],
+    "top_k": 3,
+    "query_embed_seconds": 1.47
+  }
+}

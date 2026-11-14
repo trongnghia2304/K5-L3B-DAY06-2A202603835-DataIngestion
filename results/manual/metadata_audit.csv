@@ -1,0 +1,408 @@
+﻿question_id,strategy,rank,chunk_id,source,page,section,region,question_filter,chunk_text,metadata_complete_and_correct_y_n,notes
+t01,A,1,wb-ar-2024:p047:fixed500o50:008,data/worldbank-report-2024.pdf,47,how_we_work,,"{""region"": ""south_asia""}","al 2021 and fiscal 2022, excluding the Private Sector
+Window; the remaining amount of about $11 billion
+was carried over into IDA20. IDA has continued to lean
+forward on deploying resources in fiscal 2024 to help
+countries deal with multiple crises. As of December 31,
+2023, $44.2 billion was committed on concessional
+terms, $3.6 billion on nonconcessional terms (through
+the Scale-Up Window), and $1.8 billion through the
+Private Sector Window. Administrative expenses for
+IDA are recovered primari",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 47; section=how_we_work, region trống đúng (không phải trang khu vực). Không áp filter (A/B) nên kết quả này có thể sai khu vực so với filter của câu hỏi."
+t01,A,2,wb-ar-2024:p046:fixed500o50:010,data/worldbank-report-2024.pdf,46,how_we_work,,"{""region"": ""south_asia""}","24, 75 countries were eligible for IDA
+assistance.3 New IDA lending commitments for fiscal
+2024 amounted to $31.2 billion for 235 operations, of
+which eight were IBRD and IDA blended operations.
+These commitments included $23.1 billion in
+credits and $8.1 billion in grants. In addition, three
+projects for $550 million and three subprojects for
+$19.4 million were approved for support from the
+IDA20 IDA-IFC-MIGA Private Sector Window (PSW)
+during the fiscal year.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 46; section=how_we_work, region trống đúng (không phải trang khu vực). Không áp filter (A/B) nên kết quả này có thể sai khu vực so với filter của câu hỏi."
+t01,A,3,wb-ar-2024:p020:fixed500o50:002,data/worldbank-report-2024.pdf,20,results_by_region,middle_east_north_africa,"{""region"": ""south_asia""}","an
+capital, enable green and inclusive growth, and increase infrastructure
+capacity. In fiscal 2024, the World Bank approved $4.6 billion for 17
+operations in the region, including $4.2 billion in IBRD commitments and
+$340 million in IDA commitments. An additional $87.5 million in special
+financing was approved for projects in the West Bank and Gaza. Revenue
+from Reimbursable Advisory Services agreements reached $41.5 million
+for strategic and technical assistance on sustainable social, economic",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 20; section=results_by_region, region=middle_east_north_africa khớp tiêu đề in trên trang. Không áp filter (A/B) nên kết quả này có thể sai khu vực so với filter của câu hỏi."
+t02,A,1,wb-ar-2024:p043:fixed500o50:010,data/worldbank-report-2024.pdf,43,how_we_work,,"{""region"": ""middle_east_north_africa""}","l—to
+operationalize this goal.
+In fiscal 2024, the Bank produced 982 advisory
+services and analytics products spanning more than
+130 countries and addressing critical global topics such
+as climate change, economic growth and planning,
+public sector data development and capacity building,
+public administration, pandemic response, and jobs.
+In fiscal 2024, 64 reimbursable advisory services
+agreements were signed for a total amount of
+$173 million in 24 countries. These services are
+requested and p",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 43; section=how_we_work, region trống đúng (không phải trang khu vực). Không áp filter (A/B) nên kết quả này có thể sai khu vực so với filter của câu hỏi."
+t02,A,2,wb-ar-2024:p020:fixed500o50:002,data/worldbank-report-2024.pdf,20,results_by_region,middle_east_north_africa,"{""region"": ""middle_east_north_africa""}","an
+capital, enable green and inclusive growth, and increase infrastructure
+capacity. In fiscal 2024, the World Bank approved $4.6 billion for 17
+operations in the region, including $4.2 billion in IBRD commitments and
+$340 million in IDA commitments. An additional $87.5 million in special
+financing was approved for projects in the West Bank and Gaza. Revenue
+from Reimbursable Advisory Services agreements reached $41.5 million
+for strategic and technical assistance on sustainable social, economic",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 20; section=results_by_region, region=middle_east_north_africa khớp tiêu đề in trên trang. Không áp filter (A/B) nên kết quả này có thể sai khu vực so với filter của câu hỏi."
+t02,A,3,wb-ar-2024:p039:fixed500o50:003,data/worldbank-report-2024.pdf,39,how_we_work,,"{""region"": ""middle_east_north_africa""}","-edge systems.
+Our new Scorecard for fiscal 2024–30 was approved
+by the Board in December 2023. Putting the Bank’s
+focus squarely on impact, the slimmed-down, focused
+Scorecard will allow shareholders and citizens to clearly
+see the development outcomes the World Bank Group
+is supporting. And for the first time, all World Bank
+Group institutions—IBRD, IDA, IFC, MIGA—will use the
+same metrics.
+Environmental and Social Framework
+Our Environmental and Social Framework (ESF)
+promotes sustainable and",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 39; section=how_we_work, region trống đúng (không phải trang khu vực). Không áp filter (A/B) nên kết quả này có thể sai khu vực so với filter của câu hỏi."
+t03,A,1,wb-ar-2024:p012:fixed500o50:004,data/worldbank-report-2024.pdf,12,results_by_region,western_central_africa,,"nce Program, more than 1.6 million farmers
+Powering a brighter future for Africa
+With the support of the World Bank, a new
+25-megawatt solar park with battery storage
+was launched in the Central African Republic in
+November 2023. The park will supply electricity to
+250,000 people in the capital of Bangui, almost
+doubling the country’s electricity generation
+capacity. It will replace over 90 percent of the
+energy currently produced by diesel fuel, while
+generating more than $4 million per year fo",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 12; section=results_by_region, region=western_central_africa khớp tiêu đề in trên trang."
+t03,A,2,wb-ar-2024:p012:fixed500o50:006,data/worldbank-report-2024.pdf,12,results_by_region,western_central_africa,,"ssil-fueled generator sets with
+standalone solar. In addition, we are completing
+the 225-kilovolt transmission line of the Gambia
+River Basin Development Organization to connect
+The Gambia, Guinea, Guinea-Bissau, and Senegal
+through 15 substations, such as the Tambacounda
+power station.
+These projects, and many more like them, laid the
+foundation for the Bank Group’s commitment to
+provide electricity access to 300 million people in
+Sub-Saharan Africa by 2030 in partnership with the
+African Devel",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 12; section=results_by_region, region=western_central_africa khớp tiêu đề in trên trang."
+t03,A,3,wb-ar-2024:p023:fixed500o50:008,data/worldbank-report-2024.pdf,23,results_by_region,south_asia,,"reased from 36 percent to
+43 percent.
+Maldives: We are helping install 53.5 megawatts
+of solar panels on the islands and on the open
+ocean to create 50 megawatt hours of battery
+storage and upgrade the electricity grid to include
+cleaner energy sources.
+Pakistan: We helped double revenue collection
+at the provincial level in Khyber Pakhtunkhwa—
+from $99 million in fiscal 2019 to $216 million in
+fiscal 2022—through improved governance and
+fiscal management.
+Following the economic crises in Sri La",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 23; section=results_by_region, region=south_asia khớp tiêu đề in trên trang."
+t04,A,1,wb-ar-2024:p043:fixed500o50:010,data/worldbank-report-2024.pdf,43,how_we_work,,,"l—to
+operationalize this goal.
+In fiscal 2024, the Bank produced 982 advisory
+services and analytics products spanning more than
+130 countries and addressing critical global topics such
+as climate change, economic growth and planning,
+public sector data development and capacity building,
+public administration, pandemic response, and jobs.
+In fiscal 2024, 64 reimbursable advisory services
+agreements were signed for a total amount of
+$173 million in 24 countries. These services are
+requested and p",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 43; section=how_we_work, region trống đúng (không phải trang khu vực)."
+t04,A,2,wb-ar-2024:p006:fixed500o50:005,data/worldbank-report-2024.pdf,6,overview,,,"evolution of the Bank Group, and
+sincerely thank all staff across the institution for their
+continued hard work and unwavering commitment to
+the mission of ending poverty on a livable planet.
+In fiscal 2024, the World Bank Group Boards of
+Executive Directors supported the institution’s ongoing
+efforts to become a better Bank. These operational
+enhancements are both timely and necessary: While
+economic growth prospects for the near term have
+improved slightly, easing fears of a global recession,",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 6; section=overview, region trống đúng (không phải trang khu vực)."
+t04,A,3,wb-ar-2024:p006:fixed500o50:007,data/worldbank-report-2024.pdf,6,overview,,,"lion (including $37.6 billion
+from IBRD, $31.2 billion from IDA, $31.7 billion from IFC,
+$8.2 billion from MIGA, and $8.9 billion in recipient-executed disbursing activities) in fiscal 2024.
+The 2023 Annual Meetings marked an important
+milestone for the World Bank Group as Development
+Committee members endorsed the institution’s new
+vision of a world free of poverty on a livable planet.
+Since then, the Bank Group has implemented core
+reforms to build a better Bank, including enhancing
+its financ",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 6; section=overview, region trống đúng (không phải trang khu vực)."
+t05,A,1,wb-ar-2024:p043:fixed500o50:012,data/worldbank-report-2024.pdf,43,how_we_work,,,"m.
+Support to small states
+Small states—countries with populations of no more
+than 1.5 million—are particularly susceptible to
+economic shocks, natural disasters, and the impacts
+of climate change. Disaster-related losses in these
+countries average roughly 5 percent of GDP a year
+due to capacity constraints, the small size of their
+economies, and, in many cases, their remote locations.
+In 2023, several small states experienced double-digit inflation, leading to financial tightening and
+higher in",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 43; section=how_we_work, region trống đúng (không phải trang khu vực)."
+t05,A,2,wb-ar-2024:p006:fixed500o50:006,data/worldbank-report-2024.pdf,6,overview,,,"ved slightly, easing fears of a global recession,
+the post-pandemic recovery remains weak in many
+developing countries, and pre-existing social stresses
+endure. The world is increasingly unlikely to achieve
+the 2030 Sustainable Development Goals, and climate
+change, biodiversity loss, and escalating geopolitical
+tensions further threaten development. To help countries
+address these intertwined challenges, the World Bank
+Group committed $117.5 billion (including $37.6 billion
+from IBRD, $31.2 bil",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 6; section=overview, region trống đúng (không phải trang khu vực)."
+t05,A,3,wb-ar-2024:p027:fixed500o50:002,data/worldbank-report-2024.pdf,27,results_by_theme,,,"policy recommendations. Several
+of our country poverty and equity assessments in fiscal
+2024 highlighted the need to tackle poverty in all its
+dimensions, including through greater investments in
+human capital, agriculture, and rural development. Our
+research assessed how countries can help vulnerable
+people adapt to risks and protect their welfare in the
+face of extreme weather events and other shocks.
+We are also helping countries improve their data
+for policymaking.
+We work with partners to a",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 27; section=results_by_theme, region trống đúng (không phải trang khu vực)."
+t01,B,1,wb-ar-2024:p046:para500:014,data/worldbank-report-2024.pdf,46,how_we_work,,"{""region"": ""south_asia""}","In fiscal 2024, 75 countries were eligible for IDA
+assistance.3 New IDA lending commitments for fiscal
+2024 amounted to $31.2 billion for 235 operations, of
+which eight were IBRD and IDA blended operations.
+These commitments included $23.1 billion in
+credits and $8.1 billion in grants. In addition, three
+projects for $550 million and three subprojects for
+$19.4 million were approved for support from the
+IDA20 IDA-IFC-MIGA Private Sector Window (PSW)
+during the fiscal year.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 46; section=how_we_work, region trống đúng (không phải trang khu vực). Không áp filter (A/B) nên kết quả này có thể sai khu vực so với filter của câu hỏi."
+t01,B,2,wb-ar-2024:p046:para500:000,data/worldbank-report-2024.pdf,46,how_we_work,,"{""region"": ""south_asia""}","TABLE 24: IDA COMMITMENTS BY REGION, FISCAL 2020–24
+MILLIONS OF DOLLARS",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 46; section=how_we_work, region trống đúng (không phải trang khu vực). Không áp filter (A/B) nên kết quả này có thể sai khu vực so với filter của câu hỏi."
+t01,B,3,wb-ar-2024:p008:para500:004,data/worldbank-report-2024.pdf,8,overview,,"{""region"": ""south_asia""}","GLOBAL COMMITMENTS
+In fiscal 2024, the World Bank Group provided much-needed financing,
+conducted research and analysis, and partnered with governments,
+the private sector, and other institutions to address global
+development challenges.
+Total includes multiregional and global operations. Regional totals reflect IFC commitments that were recalculated to
+match the World Bank’s regional classifications by aggregating country-level commitments within each World Bank region.
+$117.5B",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 8; section=overview, region trống đúng (không phải trang khu vực). Không áp filter (A/B) nên kết quả này có thể sai khu vực so với filter của câu hỏi. Trang 8 chứa tổng cam kết theo từng khu vực nhưng region để trống (chỉ gán region cho trang 10–23) nên filter region sẽ loại trang này; đây là hạn chế thiết kế, không phải sai."
+t02,B,1,wb-ar-2024:p008:para500:004,data/worldbank-report-2024.pdf,8,overview,,"{""region"": ""middle_east_north_africa""}","GLOBAL COMMITMENTS
+In fiscal 2024, the World Bank Group provided much-needed financing,
+conducted research and analysis, and partnered with governments,
+the private sector, and other institutions to address global
+development challenges.
+Total includes multiregional and global operations. Regional totals reflect IFC commitments that were recalculated to
+match the World Bank’s regional classifications by aggregating country-level commitments within each World Bank region.
+$117.5B",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 8; section=overview, region trống đúng (không phải trang khu vực). Không áp filter (A/B) nên kết quả này có thể sai khu vực so với filter của câu hỏi. Trang 8 chứa tổng cam kết theo từng khu vực nhưng region để trống (chỉ gán region cho trang 10–23) nên filter region sẽ loại trang này; đây là hạn chế thiết kế, không phải sai."
+t02,B,2,wb-ar-2024:p040:para500:000,data/worldbank-report-2024.pdf,40,how_we_work,,"{""region"": ""middle_east_north_africa""}","TABLE 16: WORLD BANK (IBRD/IDA) STAFF DATA, FISCAL 2022–24",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 40; section=how_we_work, region trống đúng (không phải trang khu vực). Không áp filter (A/B) nên kết quả này có thể sai khu vực so với filter của câu hỏi. Đúng metadata; chunk chỉ là tiêu đề bảng 16."
+t02,B,3,wb-ar-2024:p039:para500:005,data/worldbank-report-2024.pdf,39,how_we_work,,"{""region"": ""middle_east_north_africa""}","Our new Scorecard for fiscal 2024–30 was approved
+by the Board in December 2023. Putting the Bank’s
+focus squarely on impact, the slimmed-down, focused
+Scorecard will allow shareholders and citizens to clearly
+see the development outcomes the World Bank Group
+is supporting. And for the first time, all World Bank
+Group institutions—IBRD, IDA, IFC, MIGA—will use the
+same metrics.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 39; section=how_we_work, region trống đúng (không phải trang khu vực). Không áp filter (A/B) nên kết quả này có thể sai khu vực so với filter của câu hỏi."
+t03,B,1,wb-ar-2024:p013:para500:010,data/worldbank-report-2024.pdf,13,results_by_region,western_central_africa,,"COUNTRY IMPACT
+Central African Republic: We enabled a new
+25-megawatt solar park with battery storage
+to supply electricity to 250,000 people in the
+capital, almost doubling the country’s electricity-generation capacity.
+Chad: We have enabled cash transfers to 177,000
+households and provided 100,000 households with
+human-capital support, significantly improving
+access to basic services, livelihoods, and safety
+nets for refugees and host communities.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 13; section=results_by_region, region=western_central_africa khớp tiêu đề in trên trang."
+t03,B,2,wb-ar-2024:p017:para500:006,data/worldbank-report-2024.pdf,17,results_by_region,europe_central_asia,,"We approved the Europe and
+Central Asia Renewable Energy Scale-up Program with
+the aim of adding 15 gigawatts of renewable energy
+capacity, reducing 240 million metric tons of carbon
+emissions, and creating more than 900,000 renewable
+energy jobs. Türkiye, the first country to borrow through
+this program, is expanding the distributed solar energy
+market for businesses and households and piloting
+distributed battery electricity storage.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 17; section=results_by_region, region=europe_central_asia khớp tiêu đề in trên trang. region=europe_central_asia đúng; cùng chương trình được nhắc ở trang 31 (results_by_theme, region trống)."
+t03,B,3,wb-ar-2024:p012:para500:005,data/worldbank-report-2024.pdf,12,results_by_region,western_central_africa,,"Boosting food security and climate resilience
+We provided emergency food assistance for 3.4 million
+people and agricultural support to 11.1 million farmers
+in the region. Through the West Africa Food System
+Resilience Program, more than 1.6 million farmers
+Powering a brighter future for Africa
+With the support of the World Bank, a new
+25-megawatt solar park with battery storage
+was launched in the Central African Republic in
+November 2023.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 12; section=results_by_region, region=western_central_africa khớp tiêu đề in trên trang."
+t04,B,1,wb-ar-2024:p008:para500:004,data/worldbank-report-2024.pdf,8,overview,,,"GLOBAL COMMITMENTS
+In fiscal 2024, the World Bank Group provided much-needed financing,
+conducted research and analysis, and partnered with governments,
+the private sector, and other institutions to address global
+development challenges.
+Total includes multiregional and global operations. Regional totals reflect IFC commitments that were recalculated to
+match the World Bank’s regional classifications by aggregating country-level commitments within each World Bank region.
+$117.5B",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 8; section=overview, region trống đúng (không phải trang khu vực). Trang 8 chứa tổng cam kết theo từng khu vực nhưng region để trống (chỉ gán region cho trang 10–23) nên filter region sẽ loại trang này; đây là hạn chế thiết kế, không phải sai."
+t04,B,2,wb-ar-2024:p043:para500:019,data/worldbank-report-2024.pdf,43,how_we_work,,,"Budget management and reforms
+In fiscal 2024, the World Bank delivered heightened
+support to countries facing a multitude of global
+challenges. This includes, in addition to financing,
+the advancement of knowledge and analytics at
+the country, regional, and global levels and bolsters
+the Bank’s staff presence in the countries we serve.
+We continuously improve our efficiency and redirect
+resources to frontline services by applying a rigorous
+budget discipline and implementing a savings program.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 43; section=how_we_work, region trống đúng (không phải trang khu vực)."
+t04,B,3,wb-ar-2024:p034:para500:000,data/worldbank-report-2024.pdf,34,results_by_theme,,,"AT-A-GLANCE
+Jobs are at the heart of development,
+and in fiscal 2024, the World Bank
+Group supported 392 jobs-related
+projects by leveraging over $68 billion
+in active commitments.
+Good, inclusive jobs are the surest pathway out
+of poverty. The limited availability of these jobs,
+particularly for women and youth, is a pressing problem.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 34; section=results_by_theme, region trống đúng (không phải trang khu vực)."
+t05,B,1,wb-ar-2024:p043:para500:015,data/worldbank-report-2024.pdf,43,how_we_work,,,"Support to small states
+Small states—countries with populations of no more
+than 1.5 million—are particularly susceptible to
+economic shocks, natural disasters, and the impacts
+of climate change. Disaster-related losses in these
+countries average roughly 5 percent of GDP a year
+due to capacity constraints, the small size of their
+economies, and, in many cases, their remote locations.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 43; section=how_we_work, region trống đúng (không phải trang khu vực)."
+t05,B,2,wb-ar-2024:p027:para500:002,data/worldbank-report-2024.pdf,27,results_by_theme,,,"Poverty alleviation
+Around 700 million people live in extreme poverty on
+less than $2.15 per day. To help improve their lives, we
+provide policymakers with economic analyses and work
+with them to develop policy recommendations. Several
+of our country poverty and equity assessments in fiscal
+2024 highlighted the need to tackle poverty in all its
+dimensions, including through greater investments in
+human capital, agriculture, and rural development.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 27; section=results_by_theme, region trống đúng (không phải trang khu vực)."
+t05,B,3,wb-ar-2024:p027:para500:001,data/worldbank-report-2024.pdf,27,results_by_theme,,,"• Published country poverty and
+equity assessments that highlight
+the need to tackle poverty in
+all its dimensions, including
+through greater investments in
+human capital, agriculture, and
+rural development.
+• Convened the Private Sector
+Investment Lab which is working
+to address the barriers preventing
+private sector investment in
+emerging markets.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 27; section=results_by_theme, region trống đúng (không phải trang khu vực)."
+t01,C,1,wb-ar-2024:p023:para500:000,data/worldbank-report-2024.pdf,23,results_by_region,south_asia,"{""region"": ""south_asia""}","FIGURE 7: SOUTH ASIA
+IBRD AND IDA LENDING BY SECTOR • FISCAL 2024
+SHARE OF TOTAL OF $9.4 BILLION
+TABLE 15: SOUTH ASIA
+REGIONAL SNAPSHOT",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 23; section=results_by_region, region=south_asia khớp tiêu đề in trên trang. Đúng metadata, nhưng chunk chỉ là tiêu đề hình/bảng (không có số liệu)."
+t01,C,2,wb-ar-2024:p022:para500:003,data/worldbank-report-2024.pdf,22,results_by_region,south_asia,"{""region"": ""south_asia""}","AT-A-GLANCE
+Across South Asia, we aim to boost water security and resilience to climate
+and disaster risks, support the renewable energy transition, and enable
+job creation. In fiscal 2024, the World Bank approved $9.4 billion for
+35 operations in the region, including $3.2 billion in IBRD commitments
+and $6.2 billion in IDA commitments. We also supported 59 advisory
+services and analytical products for eight countries, totaling $62.8 million.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 22; section=results_by_region, region=south_asia khớp tiêu đề in trên trang."
+t01,C,3,wb-ar-2024:p022:para500:007,data/worldbank-report-2024.pdf,22,results_by_region,south_asia,"{""region"": ""south_asia""}","The World Bank is supporting this transition
+with two development policy operations worth
+$3 billion. This strategic financing is designed to
+catalyze India’s development of low-carbon energy
+across three interconnected areas: the emergence
+of a green hydrogen industry, the expansion
+of renewable energy, and the mobilization of
+climate finance.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 22; section=results_by_region, region=south_asia khớp tiêu đề in trên trang."
+t02,C,1,wb-ar-2024:p020:para500:002,data/worldbank-report-2024.pdf,20,results_by_region,middle_east_north_africa,"{""region"": ""middle_east_north_africa""}","AT-A-GLANCE
+Across the Middle East and North Africa, we aim to strengthen human
+capital, enable green and inclusive growth, and increase infrastructure
+capacity. In fiscal 2024, the World Bank approved $4.6 billion for 17
+operations in the region, including $4.2 billion in IBRD commitments and
+$340 million in IDA commitments. An additional $87.5 million in special
+financing was approved for projects in the West Bank and Gaza.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 20; section=results_by_region, region=middle_east_north_africa khớp tiêu đề in trên trang."
+t02,C,2,wb-ar-2024:p021:para500:000,data/worldbank-report-2024.pdf,21,results_by_region,middle_east_north_africa,"{""region"": ""middle_east_north_africa""}","FIGURE 6: MIDDLE EAST AND NORTH AFRICA
+IBRD AND IDA LENDING BY SECTOR • FISCAL 2024
+SHARE OF TOTAL OF $4.6 BILLION
+TABLE 13: MIDDLE EAST AND NORTH AFRICA
+REGIONAL SNAPSHOT",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 21; section=results_by_region, region=middle_east_north_africa khớp tiêu đề in trên trang. Đúng metadata, nhưng chunk chỉ là tiêu đề hình/bảng (không có số liệu)."
+t02,C,3,wb-ar-2024:p020:para500:000,data/worldbank-report-2024.pdf,20,results_by_region,middle_east_north_africa,"{""region"": ""middle_east_north_africa""}","TABLE 12: MIDDLE EAST AND NORTH AFRICA
+REGIONAL COMMITMENTS AND DISBURSEMENTS—FISCAL 2022–24
+COMMITMENTS ($ MILLIONS) DISBURSEMENTS ($ MILLIONS)
+FY22 FY23 FY24 FY22 FY23 FY24
+IBRD 4,135 4,697 4,233 3,407 2,964 3,332
+IDA 817 561 340 559 552 587
+Portfolio of operations under implementation as of June 30, 2024: $27.6 billion.
+MIDDLE EAST AND",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 20; section=results_by_region, region=middle_east_north_africa khớp tiêu đề in trên trang."
+t03,C,1,wb-ar-2024:p013:para500:010,data/worldbank-report-2024.pdf,13,results_by_region,western_central_africa,,"COUNTRY IMPACT
+Central African Republic: We enabled a new
+25-megawatt solar park with battery storage
+to supply electricity to 250,000 people in the
+capital, almost doubling the country’s electricity-generation capacity.
+Chad: We have enabled cash transfers to 177,000
+households and provided 100,000 households with
+human-capital support, significantly improving
+access to basic services, livelihoods, and safety
+nets for refugees and host communities.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 13; section=results_by_region, region=western_central_africa khớp tiêu đề in trên trang."
+t03,C,2,wb-ar-2024:p017:para500:006,data/worldbank-report-2024.pdf,17,results_by_region,europe_central_asia,,"We approved the Europe and
+Central Asia Renewable Energy Scale-up Program with
+the aim of adding 15 gigawatts of renewable energy
+capacity, reducing 240 million metric tons of carbon
+emissions, and creating more than 900,000 renewable
+energy jobs. Türkiye, the first country to borrow through
+this program, is expanding the distributed solar energy
+market for businesses and households and piloting
+distributed battery electricity storage.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 17; section=results_by_region, region=europe_central_asia khớp tiêu đề in trên trang. region=europe_central_asia đúng; cùng chương trình được nhắc ở trang 31 (results_by_theme, region trống)."
+t03,C,3,wb-ar-2024:p012:para500:005,data/worldbank-report-2024.pdf,12,results_by_region,western_central_africa,,"Boosting food security and climate resilience
+We provided emergency food assistance for 3.4 million
+people and agricultural support to 11.1 million farmers
+in the region. Through the West Africa Food System
+Resilience Program, more than 1.6 million farmers
+Powering a brighter future for Africa
+With the support of the World Bank, a new
+25-megawatt solar park with battery storage
+was launched in the Central African Republic in
+November 2023.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 12; section=results_by_region, region=western_central_africa khớp tiêu đề in trên trang."
+t04,C,1,wb-ar-2024:p008:para500:004,data/worldbank-report-2024.pdf,8,overview,,,"GLOBAL COMMITMENTS
+In fiscal 2024, the World Bank Group provided much-needed financing,
+conducted research and analysis, and partnered with governments,
+the private sector, and other institutions to address global
+development challenges.
+Total includes multiregional and global operations. Regional totals reflect IFC commitments that were recalculated to
+match the World Bank’s regional classifications by aggregating country-level commitments within each World Bank region.
+$117.5B",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 8; section=overview, region trống đúng (không phải trang khu vực). Trang 8 chứa tổng cam kết theo từng khu vực nhưng region để trống (chỉ gán region cho trang 10–23) nên filter region sẽ loại trang này; đây là hạn chế thiết kế, không phải sai."
+t04,C,2,wb-ar-2024:p043:para500:019,data/worldbank-report-2024.pdf,43,how_we_work,,,"Budget management and reforms
+In fiscal 2024, the World Bank delivered heightened
+support to countries facing a multitude of global
+challenges. This includes, in addition to financing,
+the advancement of knowledge and analytics at
+the country, regional, and global levels and bolsters
+the Bank’s staff presence in the countries we serve.
+We continuously improve our efficiency and redirect
+resources to frontline services by applying a rigorous
+budget discipline and implementing a savings program.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 43; section=how_we_work, region trống đúng (không phải trang khu vực)."
+t04,C,3,wb-ar-2024:p034:para500:000,data/worldbank-report-2024.pdf,34,results_by_theme,,,"AT-A-GLANCE
+Jobs are at the heart of development,
+and in fiscal 2024, the World Bank
+Group supported 392 jobs-related
+projects by leveraging over $68 billion
+in active commitments.
+Good, inclusive jobs are the surest pathway out
+of poverty. The limited availability of these jobs,
+particularly for women and youth, is a pressing problem.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 34; section=results_by_theme, region trống đúng (không phải trang khu vực)."
+t05,C,1,wb-ar-2024:p043:para500:015,data/worldbank-report-2024.pdf,43,how_we_work,,,"Support to small states
+Small states—countries with populations of no more
+than 1.5 million—are particularly susceptible to
+economic shocks, natural disasters, and the impacts
+of climate change. Disaster-related losses in these
+countries average roughly 5 percent of GDP a year
+due to capacity constraints, the small size of their
+economies, and, in many cases, their remote locations.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 43; section=how_we_work, region trống đúng (không phải trang khu vực)."
+t05,C,2,wb-ar-2024:p027:para500:002,data/worldbank-report-2024.pdf,27,results_by_theme,,,"Poverty alleviation
+Around 700 million people live in extreme poverty on
+less than $2.15 per day. To help improve their lives, we
+provide policymakers with economic analyses and work
+with them to develop policy recommendations. Several
+of our country poverty and equity assessments in fiscal
+2024 highlighted the need to tackle poverty in all its
+dimensions, including through greater investments in
+human capital, agriculture, and rural development.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 27; section=results_by_theme, region trống đúng (không phải trang khu vực)."
+t05,C,3,wb-ar-2024:p027:para500:001,data/worldbank-report-2024.pdf,27,results_by_theme,,,"• Published country poverty and
+equity assessments that highlight
+the need to tackle poverty in
+all its dimensions, including
+through greater investments in
+human capital, agriculture, and
+rural development.
+• Convened the Private Sector
+Investment Lab which is working
+to address the barriers preventing
+private sector investment in
+emerging markets.",y,"source khớp manifest; text chunk chỉ xuất hiện ở trang PDF 27; section=results_by_theme, region trống đúng (không phải trang khu vực)."

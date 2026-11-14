@@ -1,0 +1,216 @@
+{
+  "A": {
+    "dev": {
+      "hit_at_1": {
+        "n": 6,
+        "N": 15,
+        "rate": 0.4
+      },
+      "evidence_hit_at_3": {
+        "n": 7,
+        "N": 15,
+        "rate": 0.467
+      },
+      "gold_page_in_top3": {
+        "n": 8,
+        "N": 15,
+        "rate": 0.533
+      },
+      "filter_questions_hit_at_3": {
+        "n": 0,
+        "N": 3,
+        "rate": 0.0
+      },
+      "filter_compliant_top3": {
+        "n": 0,
+        "N": 3,
+        "rate": 0.0
+      },
+      "evidence_split_across_chunks": [
+        "q06"
+      ],
+      "missed_ids": [
+        "q01",
+        "q02",
+        "q03",
+        "q04",
+        "q06",
+        "q13",
+        "q14",
+        "q15"
+      ]
+    },
+    "test": {
+      "hit_at_1": {
+        "n": 1,
+        "N": 5,
+        "rate": 0.2
+      },
+      "evidence_hit_at_3": {
+        "n": 2,
+        "N": 5,
+        "rate": 0.4
+      },
+      "gold_page_in_top3": {
+        "n": 2,
+        "N": 5,
+        "rate": 0.4
+      },
+      "filter_questions_hit_at_3": {
+        "n": 1,
+        "N": 2,
+        "rate": 0.5
+      },
+      "filter_compliant_top3": {
+        "n": 0,
+        "N": 2,
+        "rate": 0.0
+      },
+      "evidence_split_across_chunks": [],
+      "missed_ids": [
+        "t01",
+        "t04",
+        "t05"
+      ]
+    }
+  },
+  "B": {
+    "dev": {
+      "hit_at_1": {
+        "n": 9,
+        "N": 15,
+        "rate": 0.6
+      },
+      "evidence_hit_at_3": {
+        "n": 10,
+        "N": 15,
+        "rate": 0.667
+      },
+      "gold_page_in_top3": {
+        "n": 11,
+        "N": 15,
+        "rate": 0.733
+      },
+      "filter_questions_hit_at_3": {
+        "n": 0,
+        "N": 3,
+        "rate": 0.0
+      },
+      "filter_compliant_top3": {
+        "n": 0,
+        "N": 3,
+        "rate": 0.0
+      },
+      "evidence_split_across_chunks": [
+        "q01"
+      ],
+      "missed_ids": [
+        "q01",
+        "q02",
+        "q13",
+        "q14",
+        "q15"
+      ]
+    },
+    "test": {
+      "hit_at_1": {
+        "n": 0,
+        "N": 5,
+        "rate": 0.0
+      },
+      "evidence_hit_at_3": {
+        "n": 2,
+        "N": 5,
+        "rate": 0.4
+      },
+      "gold_page_in_top3": {
+        "n": 2,
+        "N": 5,
+        "rate": 0.4
+      },
+      "filter_questions_hit_at_3": {
+        "n": 0,
+        "N": 2,
+        "rate": 0.0
+      },
+      "filter_compliant_top3": {
+        "n": 0,
+        "N": 2,
+        "rate": 0.0
+      },
+      "evidence_split_across_chunks": [],
+      "missed_ids": [
+        "t01",
+        "t02",
+        "t05"
+      ]
+    }
+  },
+  "C": {
+    "dev": {
+      "hit_at_1": {
+        "n": 11,
+        "N": 15,
+        "rate": 0.733
+      },
+      "evidence_hit_at_3": {
+        "n": 13,
+        "N": 15,
+        "rate": 0.867
+      },
+      "gold_page_in_top3": {
+        "n": 14,
+        "N": 15,
+        "rate": 0.933
+      },
+      "filter_questions_hit_at_3": {
+        "n": 3,
+        "N": 3,
+        "rate": 1.0
+      },
+      "filter_compliant_top3": {
+        "n": 3,
+        "N": 3,
+        "rate": 1.0
+      },
+      "evidence_split_across_chunks": [
+        "q01"
+      ],
+      "missed_ids": [
+        "q01",
+        "q02"
+      ]
+    },
+    "test": {
+      "hit_at_1": {
+        "n": 1,
+        "N": 5,
+        "rate": 0.2
+      },
+      "evidence_hit_at_3": {
+        "n": 4,
+        "N": 5,
+        "rate": 0.8
+      },
+      "gold_page_in_top3": {
+        "n": 4,
+        "N": 5,
+        "rate": 0.8
+      },
+      "filter_questions_hit_at_3": {
+        "n": 2,
+        "N": 2,
+        "rate": 1.0
+      },
+      "filter_compliant_top3": {
+        "n": 2,
+        "N": 2,
+        "rate": 1.0
+      },
+      "evidence_split_across_chunks": [],
+      "missed_ids": [
+        "t05"
+      ]
+    }
+  }
+}
