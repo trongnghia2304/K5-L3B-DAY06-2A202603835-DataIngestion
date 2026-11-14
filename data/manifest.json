@@ -1,0 +1,366 @@
+{
+  "counting_rule": "One unit = one physical PDF page. Each PDF page of this report is a two-page printed spread, so a PDF page carries two printed pages. Cover, contents, section dividers, credits and back cover are excluded. A counted page must have at least 500 extracted characters.",
+  "extraction_tool": "pypdf 6.21.4",
+  "sources": [
+    {
+      "source_id": "wb-ar-2024",
+      "title": "The World Bank Annual Report 2024: A Better Bank for a Better World",
+      "source_path_or_url": "data/worldbank-report-2024.pdf",
+      "doi": "10.1596/AR2024EN",
+      "publisher": "International Bank for Reconstruction and Development / The World Bank",
+      "license_or_permission": "CC BY-NC-ND 3.0 IGO (stated on PDF page 48, 'Rights and Permissions'). Used unmodified for non-commercial coursework with attribution; third-party components (photos, some tables/figures) may need separate permission.",
+      "accessed_at": "2026-11-14",
+      "version_note": "PDF metadata CreationDate 2024-10-08, ModDate 2024-10-18",
+      "sha256": "5984ce14bd4d7e1a5a67ad143c595edbc770136ff800aca7fec899ed1c826320",
+      "physical_pdf_pages": 49,
+      "counted_content_pages": 42,
+      "counted_chars": 202178,
+      "pages": [
+        {
+          "page_id": "wb-ar-2024-p001",
+          "pdf_page": 1,
+          "chars": 167,
+          "counted": false,
+          "excluded_reason": "front cover"
+        },
+        {
+          "page_id": "wb-ar-2024-p002",
+          "pdf_page": 2,
+          "chars": 2156,
+          "counted": false,
+          "excluded_reason": "table of contents / report scope boilerplate"
+        },
+        {
+          "page_id": "wb-ar-2024-p003",
+          "pdf_page": 3,
+          "chars": 1332,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p004",
+          "pdf_page": 4,
+          "chars": 1631,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p005",
+          "pdf_page": 5,
+          "chars": 5606,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p006",
+          "pdf_page": 6,
+          "chars": 6678,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p007",
+          "pdf_page": 7,
+          "chars": 3699,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p008",
+          "pdf_page": 8,
+          "chars": 3703,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p009",
+          "pdf_page": 9,
+          "chars": 123,
+          "counted": false,
+          "excluded_reason": "section divider (Results by Region), title only"
+        },
+        {
+          "page_id": "wb-ar-2024-p010",
+          "pdf_page": 10,
+          "chars": 3457,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p011",
+          "pdf_page": 11,
+          "chars": 5087,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p012",
+          "pdf_page": 12,
+          "chars": 3324,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p013",
+          "pdf_page": 13,
+          "chars": 4294,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p014",
+          "pdf_page": 14,
+          "chars": 2539,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p015",
+          "pdf_page": 15,
+          "chars": 4893,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p016",
+          "pdf_page": 16,
+          "chars": 2956,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p017",
+          "pdf_page": 17,
+          "chars": 5054,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p018",
+          "pdf_page": 18,
+          "chars": 3731,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p019",
+          "pdf_page": 19,
+          "chars": 5454,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p020",
+          "pdf_page": 20,
+          "chars": 2906,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p021",
+          "pdf_page": 21,
+          "chars": 5584,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p022",
+          "pdf_page": 22,
+          "chars": 2867,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p023",
+          "pdf_page": 23,
+          "chars": 5374,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p024",
+          "pdf_page": 24,
+          "chars": 122,
+          "counted": false,
+          "excluded_reason": "section divider (Results by Theme), title only"
+        },
+        {
+          "page_id": "wb-ar-2024-p025",
+          "pdf_page": 25,
+          "chars": 2704,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p026",
+          "pdf_page": 26,
+          "chars": 7363,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p027",
+          "pdf_page": 27,
+          "chars": 2307,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p028",
+          "pdf_page": 28,
+          "chars": 7288,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p029",
+          "pdf_page": 29,
+          "chars": 2355,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p030",
+          "pdf_page": 30,
+          "chars": 5471,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p031",
+          "pdf_page": 31,
+          "chars": 4454,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p032",
+          "pdf_page": 32,
+          "chars": 3079,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p033",
+          "pdf_page": 33,
+          "chars": 7251,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p034",
+          "pdf_page": 34,
+          "chars": 3628,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p035",
+          "pdf_page": 35,
+          "chars": 4367,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p036",
+          "pdf_page": 36,
+          "chars": 84,
+          "counted": false,
+          "excluded_reason": "section divider (How We Work), title only"
+        },
+        {
+          "page_id": "wb-ar-2024-p037",
+          "pdf_page": 37,
+          "chars": 7676,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p038",
+          "pdf_page": 38,
+          "chars": 7294,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p039",
+          "pdf_page": 39,
+          "chars": 8177,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p040",
+          "pdf_page": 40,
+          "chars": 6781,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p041",
+          "pdf_page": 41,
+          "chars": 4873,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p042",
+          "pdf_page": 42,
+          "chars": 6091,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p043",
+          "pdf_page": 43,
+          "chars": 8085,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p044",
+          "pdf_page": 44,
+          "chars": 4224,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p045",
+          "pdf_page": 45,
+          "chars": 5191,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p046",
+          "pdf_page": 46,
+          "chars": 5043,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p047",
+          "pdf_page": 47,
+          "chars": 8307,
+          "counted": true,
+          "excluded_reason": null
+        },
+        {
+          "page_id": "wb-ar-2024-p048",
+          "pdf_page": 48,
+          "chars": 5214,
+          "counted": false,
+          "excluded_reason": "photo credits and copyright/rights notice"
+        },
+        {
+          "page_id": "wb-ar-2024-p049",
+          "pdf_page": 49,
+          "chars": 276,
+          "counted": false,
+          "excluded_reason": "back cover"
+        }
+      ]
+    }
+  ],
+  "total_counted_content_pages": 42
+}

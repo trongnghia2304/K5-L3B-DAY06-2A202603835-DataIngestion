@@ -2,3 +2,5 @@
 psycopg[binary]==3.3.8
 pypdf>=5,<7
 python-dotenv>=1,<2
+# Local embedding model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (384 dims)
+sentence-transformers==6.3.0

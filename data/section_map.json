@@ -1,0 +1,19 @@
+{
+  "description": "Section and region metadata per PDF page of wb-ar-2024. Values come from section divider pages and from the region heading printed on each page; verify_benchmark.py checks that each heading string really appears on its pages.",
+  "source_id": "wb-ar-2024",
+  "sections": [
+    {"section": "overview", "pdf_pages": [3, 4, 5, 6, 7, 8]},
+    {"section": "results_by_region", "pdf_pages": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], "divider_page": 9},
+    {"section": "results_by_theme", "pdf_pages": [25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35], "divider_page": 24},
+    {"section": "how_we_work", "pdf_pages": [37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47], "divider_page": 36}
+  ],
+  "regions": [
+    {"region": "eastern_southern_africa", "heading": "EASTERN AND SOUTHERN AFRICA", "pdf_pages": [10, 11]},
+    {"region": "western_central_africa", "heading": "WESTERN AND CENTRAL AFRICA", "pdf_pages": [12, 13]},
+    {"region": "east_asia_pacific", "heading": "EAST ASIA AND PACIFIC", "pdf_pages": [14, 15]},
+    {"region": "europe_central_asia", "heading": "EUROPE AND CENTRAL ASIA", "pdf_pages": [16, 17]},
+    {"region": "latin_america_caribbean", "heading": "LATIN AMERICA AND THE CARIBBEAN", "pdf_pages": [18, 19]},
+    {"region": "middle_east_north_africa", "heading": "MIDDLE EAST AND NORTH AFRICA", "pdf_pages": [20, 21]},
+    {"region": "south_asia", "heading": "SOUTH ASIA", "pdf_pages": [22, 23]}
+  ]
+}
